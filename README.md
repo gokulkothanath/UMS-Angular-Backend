@@ -14,3 +14,10 @@ Framework: Node.js, Express
 Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 Environment Management: dotenv
+
+Acknowledgements
+Node.js
+TypeScript
+Express
+MongoDB
+JWT
